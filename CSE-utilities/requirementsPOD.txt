@@ -1,0 +1,8 @@
+gradio
+sentence-transformers
+faiss-cpu
+scikit-learn
+pypdf
+docx2txt
+openai
+httpx
